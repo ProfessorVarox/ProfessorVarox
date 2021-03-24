@@ -13,4 +13,3 @@ Join [my Discord server](https://discord.gg/y8kXVkQ)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/ProfessorVarox)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfessorVarox&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorVarox&theme=tokyonight)
