@@ -16,7 +16,6 @@ Join [my Discord server](https://discord.gg/y8kXVkQ)
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-light-sq.svg" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-light-sq.svg" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
